@@ -1,0 +1,1083 @@
+13:14:37.360 faulthandler enabled
+13:14:40.090 qt3d host created
+13:14:40.092 app started
+13:15:49.882 faulthandler enabled
+13:15:52.406 qt3d host created
+13:15:52.407 app started
+13:15:55.113 prefs: clicked
+13:15:55.113 qt pump paused
+13:15:55.113 prefs: qt paused
+13:15:55.114 prefs: deferred build scheduled
+13:15:55.154 prefs: building dlg
+13:15:55.155 prefs: toplevel created
+13:15:55.155 prefs: building controls
+13:16:06.256 qt pump resumed
+13:16:25.640 prefs: clicked
+13:16:25.641 qt pump paused
+13:16:25.641 prefs: qt paused
+13:16:25.641 prefs: deferred build scheduled
+13:16:25.672 prefs: building dlg
+13:16:25.799 prefs: toplevel created
+13:16:25.800 prefs: building controls
+13:16:35.139 qt pump resumed
+13:16:41.114 prefs: clicked
+13:16:41.114 qt pump paused
+13:16:41.114 prefs: qt paused
+13:16:41.115 prefs: deferred build scheduled
+13:16:41.155 prefs: building dlg
+13:16:41.156 prefs: toplevel created
+13:16:41.156 prefs: building controls
+13:16:44.752 qt pump resumed
+13:18:33.585 prefs: clicked
+13:18:33.585 qt pump paused
+13:18:33.585 prefs: qt paused
+13:18:33.586 prefs: deferred build scheduled
+13:18:33.619 prefs: building dlg
+13:18:33.619 prefs: toplevel created
+13:18:33.619 prefs: building controls
+13:18:35.534 qt pump resumed
+13:18:47.184 prefs: clicked
+13:18:47.184 qt pump paused
+13:18:47.185 prefs: qt paused
+13:18:47.185 prefs: deferred build scheduled
+13:18:47.216 prefs: building dlg
+13:18:47.217 prefs: toplevel created
+13:18:47.217 prefs: building controls
+13:18:50.914 qt pump resumed
+14:40:51.754 qt3d host created
+14:40:53.219 prefs: clicked
+14:40:53.219 qt pump paused
+14:40:53.220 prefs: qt paused
+14:40:53.220 prefs: deferred build scheduled
+14:40:53.265 prefs: building dlg
+14:40:53.265 prefs: toplevel created
+14:40:53.266 prefs: building controls
+14:40:53.362 qt pump resumed
+14:40:53.432 prefs: clicked
+14:40:53.433 qt pump paused
+14:40:53.433 prefs: qt paused
+14:40:53.433 prefs: deferred build scheduled
+14:40:53.465 prefs: building dlg
+14:40:53.465 prefs: toplevel created
+14:40:53.466 prefs: building controls
+14:40:53.549 qt pump resumed
+14:41:08.305 qt3d host created
+14:41:09.757 qt3d host created
+14:41:22.940 qt3d host created
+14:41:35.723 qt3d host created
+14:41:36.670 prefs: clicked
+14:41:36.671 qt pump paused
+14:41:36.671 prefs: qt paused
+14:41:36.672 prefs: deferred build scheduled
+14:41:36.893 prefs: building dlg
+14:41:36.894 prefs: toplevel created
+14:41:36.895 prefs: building controls
+14:41:37.189 qt3d host created
+14:41:37.548 qt pump resumed
+14:41:38.028 qt3d host created
+14:41:38.467 qt3d host created
+14:41:40.546 qt pump paused
+14:41:40.868 qt pump resumed
+14:41:50.527 qt3d host created
+14:41:51.056 prefs: clicked
+14:41:51.057 qt pump paused
+14:41:51.057 prefs: qt paused
+14:41:51.058 prefs: deferred build scheduled
+14:41:51.169 prefs: building dlg
+14:41:51.169 prefs: toplevel created
+14:41:51.170 prefs: building controls
+14:41:51.474 qt pump resumed
+14:41:52.908 qt pump paused
+14:41:52.948 qt pump resumed
+14:42:12.132 qt3d host created
+14:42:51.424 qt3d host created
+14:42:52.572 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmp_r9qpn1l\ux_test.autosave.scs
+14:42:52.575 prefs: clicked
+14:42:52.576 qt pump paused
+14:42:52.576 prefs: qt paused
+14:42:52.577 prefs: deferred build scheduled
+14:42:52.663 prefs: building dlg
+14:42:52.664 prefs: toplevel created
+14:42:52.664 prefs: building controls
+14:42:52.885 qt pump resumed
+14:42:54.214 qt pump paused
+14:42:54.255 qt pump resumed
+14:43:06.880 qt3d host created
+14:43:08.508 qt3d host created
+14:43:08.526 qt3d host created
+14:43:25.089 qt3d host created
+14:43:31.841 qt3d host created
+14:43:39.595 qt3d host created
+14:43:47.101 qt3d host created
+14:43:52.526 qt3d host created
+14:43:52.980 prefs: clicked
+14:43:52.980 qt pump paused
+14:43:52.981 prefs: qt paused
+14:43:52.981 prefs: deferred build scheduled
+14:43:53.023 prefs: building dlg
+14:43:53.024 prefs: toplevel created
+14:43:53.024 prefs: building controls
+14:43:53.197 qt pump resumed
+14:43:53.350 prefs: clicked
+14:43:53.351 qt pump paused
+14:43:53.351 prefs: qt paused
+14:43:53.352 prefs: deferred build scheduled
+14:43:53.383 prefs: building dlg
+14:43:53.383 prefs: toplevel created
+14:43:53.384 prefs: building controls
+14:43:53.525 qt pump resumed
+14:43:59.474 qt3d host created
+14:44:08.107 qt3d host created
+14:44:17.230 qt3d host created
+14:44:26.655 qt3d host created
+14:44:31.849 qt3d host created
+14:44:36.451 qt3d host created
+14:44:49.916 qt3d host created
+14:44:58.402 qt3d host created
+14:45:05.798 qt3d host created
+14:45:06.466 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmpd6jh4y9b\ux_test.autosave.scs
+14:45:06.471 prefs: clicked
+14:45:06.471 qt pump paused
+14:45:06.472 prefs: qt paused
+14:45:06.472 prefs: deferred build scheduled
+14:45:06.621 prefs: building dlg
+14:45:06.622 prefs: toplevel created
+14:45:06.622 prefs: building controls
+14:45:06.847 qt pump resumed
+14:45:08.229 qt pump paused
+14:45:08.265 qt pump resumed
+14:45:12.959 qt3d host created
+14:51:14.380 qt3d host created
+14:51:26.198 qt3d host created
+14:51:45.875 qt3d host created
+14:51:57.735 qt3d host created
+14:52:12.096 qt3d host created
+14:52:31.475 qt3d host created
+15:12:08.394 faulthandler enabled
+15:12:14.329 qt3d host created
+15:12:14.331 app started
+15:13:43.776 qt3d host created
+15:19:47.756 qt3d host created
+15:19:48.069 prefs: clicked
+15:19:48.069 qt pump paused
+15:19:48.069 prefs: qt paused
+15:19:48.070 prefs: deferred build scheduled
+15:19:48.111 prefs: building dlg
+15:19:48.111 prefs: toplevel created
+15:19:48.112 prefs: building controls
+15:19:48.175 qt pump resumed
+15:19:48.222 prefs: clicked
+15:19:48.223 qt pump paused
+15:19:48.223 prefs: qt paused
+15:19:48.223 prefs: deferred build scheduled
+15:19:48.254 prefs: building dlg
+15:19:48.255 prefs: toplevel created
+15:19:48.255 prefs: building controls
+15:19:48.376 qt pump resumed
+15:19:54.012 qt3d host created
+15:20:23.106 qt3d host created
+15:20:29.510 qt3d host created
+15:20:36.964 qt3d host created
+15:20:43.980 qt3d host created
+15:20:49.374 qt3d host created
+15:20:49.750 prefs: clicked
+15:20:49.751 qt pump paused
+15:20:49.751 prefs: qt paused
+15:20:49.751 prefs: deferred build scheduled
+15:20:49.796 prefs: building dlg
+15:20:49.796 prefs: toplevel created
+15:20:49.797 prefs: building controls
+15:20:49.860 qt pump resumed
+15:20:50.000 prefs: clicked
+15:20:50.001 qt pump paused
+15:20:50.001 prefs: qt paused
+15:20:50.002 prefs: deferred build scheduled
+15:20:50.034 prefs: building dlg
+15:20:50.035 prefs: toplevel created
+15:20:50.035 prefs: building controls
+15:20:50.175 qt pump resumed
+15:20:56.116 qt3d host created
+15:21:01.997 qt3d host created
+15:21:12.387 qt3d host created
+15:21:20.226 qt3d host created
+15:21:25.196 qt3d host created
+15:21:29.421 qt3d host created
+15:21:40.650 qt3d host created
+15:21:53.737 qt3d host created
+15:22:02.368 qt3d host created
+15:22:05.697 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmpdtciutcb\ux_test.autosave.scs
+15:22:05.700 prefs: clicked
+15:22:05.700 qt pump paused
+15:22:05.701 prefs: qt paused
+15:22:05.701 prefs: deferred build scheduled
+15:22:05.755 prefs: building dlg
+15:22:05.756 prefs: toplevel created
+15:22:05.756 prefs: building controls
+15:22:05.873 qt pump resumed
+15:22:07.188 qt pump paused
+15:22:07.225 qt pump resumed
+15:22:11.589 qt3d host created
+15:22:28.936 qt3d host created
+15:26:58.926 faulthandler enabled
+15:27:02.363 qt3d host created
+15:27:02.365 app started
+15:33:48.373 qt3d host created
+15:34:32.812 qt3d host created
+15:35:05.413 qt3d host created
+15:35:11.792 qt3d host created
+15:35:19.472 qt3d host created
+15:35:26.250 qt3d host created
+15:35:31.334 qt3d host created
+15:35:31.854 prefs: clicked
+15:35:31.854 qt pump paused
+15:35:31.855 prefs: qt paused
+15:35:31.855 prefs: deferred build scheduled
+15:35:31.900 prefs: building dlg
+15:35:31.902 prefs: toplevel created
+15:35:31.902 prefs: building controls
+15:35:32.101 qt pump resumed
+15:35:32.186 prefs: clicked
+15:35:32.186 qt pump paused
+15:35:32.186 prefs: qt paused
+15:35:32.187 prefs: deferred build scheduled
+15:35:32.218 prefs: building dlg
+15:35:32.218 prefs: toplevel created
+15:35:32.219 prefs: building controls
+15:35:32.303 qt pump resumed
+15:35:37.877 qt3d host created
+15:35:44.348 qt3d host created
+15:35:53.091 qt3d host created
+15:36:00.515 qt3d host created
+15:36:05.337 qt3d host created
+15:36:08.692 qt3d host created
+15:36:18.319 qt3d host created
+15:36:25.210 qt3d host created
+15:36:32.583 qt3d host created
+15:36:33.565 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmpghli4ube\ux_test.autosave.scs
+15:36:33.567 prefs: clicked
+15:36:33.568 qt pump paused
+15:36:33.568 prefs: qt paused
+15:36:33.568 prefs: deferred build scheduled
+15:36:33.630 prefs: building dlg
+15:36:33.630 prefs: toplevel created
+15:36:33.630 prefs: building controls
+15:36:33.772 qt pump resumed
+15:36:34.989 qt pump paused
+15:36:35.112 qt pump resumed
+15:36:40.892 qt3d host created
+15:47:47.241 faulthandler enabled
+15:47:50.887 qt3d host created
+15:47:50.889 app started
+15:51:11.485 faulthandler enabled
+15:51:15.013 qt3d host created
+15:51:15.015 app started
+15:56:13.812 qt3d host created
+16:14:46.188 qt3d host created
+16:14:49.749 qt3d host created
+16:14:50.106 prefs: clicked
+16:14:50.106 qt pump paused
+16:14:50.106 prefs: qt paused
+16:14:50.106 prefs: deferred build scheduled
+16:14:50.149 prefs: building dlg
+16:14:50.150 prefs: toplevel created
+16:14:50.150 prefs: building controls
+16:14:50.214 qt pump resumed
+16:14:50.269 prefs: clicked
+16:14:50.269 qt pump paused
+16:14:50.269 prefs: qt paused
+16:14:50.270 prefs: deferred build scheduled
+16:14:50.301 prefs: building dlg
+16:14:50.302 prefs: toplevel created
+16:14:50.302 prefs: building controls
+16:14:50.416 qt pump resumed
+16:25:22.303 qt3d host created
+16:25:26.248 qt3d host created
+16:25:26.775 prefs: clicked
+16:25:26.776 qt pump paused
+16:25:26.776 prefs: qt paused
+16:25:26.776 prefs: deferred build scheduled
+16:25:26.824 prefs: building dlg
+16:25:26.824 prefs: toplevel created
+16:25:26.825 prefs: building controls
+16:25:26.967 qt pump resumed
+16:25:27.042 prefs: clicked
+16:25:27.042 qt pump paused
+16:25:27.042 prefs: qt paused
+16:25:27.043 prefs: deferred build scheduled
+16:25:27.074 prefs: building dlg
+16:25:27.074 prefs: toplevel created
+16:25:27.075 prefs: building controls
+16:25:27.194 qt pump resumed
+16:25:34.209 qt3d host created
+16:25:35.365 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmpg12529q1\ux_test.autosave.scs
+16:25:35.368 prefs: clicked
+16:25:35.368 qt pump paused
+16:25:35.368 prefs: qt paused
+16:25:35.369 prefs: deferred build scheduled
+16:25:35.472 prefs: building dlg
+16:25:35.473 prefs: toplevel created
+16:25:35.473 prefs: building controls
+16:25:35.648 qt pump resumed
+16:25:40.494 qt pump paused
+16:25:40.856 qt pump resumed
+16:25:58.888 qt3d host created
+16:26:25.516 qt3d host created
+16:26:38.351 qt3d host created
+16:26:45.871 qt3d host created
+16:26:55.043 qt3d host created
+16:27:03.176 qt3d host created
+16:27:07.518 qt3d host created
+16:27:08.213 prefs: clicked
+16:27:08.213 qt pump paused
+16:27:08.214 prefs: qt paused
+16:27:08.214 prefs: deferred build scheduled
+16:27:08.246 prefs: building dlg
+16:27:08.247 prefs: toplevel created
+16:27:08.247 prefs: building controls
+16:27:08.376 qt pump resumed
+16:27:08.463 prefs: clicked
+16:27:08.464 qt pump paused
+16:27:08.464 prefs: qt paused
+16:27:08.464 prefs: deferred build scheduled
+16:27:08.496 prefs: building dlg
+16:27:08.496 prefs: toplevel created
+16:27:08.497 prefs: building controls
+16:27:08.687 qt pump resumed
+16:27:14.935 qt3d host created
+16:27:21.183 qt3d host created
+16:27:32.331 qt3d host created
+16:27:39.942 qt3d host created
+16:27:44.613 qt3d host created
+16:27:47.892 qt3d host created
+16:27:58.728 qt3d host created
+16:28:05.793 qt3d host created
+16:28:12.195 qt3d host created
+16:28:12.800 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmpmubp2px2\ux_test.autosave.scs
+16:28:12.802 prefs: clicked
+16:28:12.803 qt pump paused
+16:28:12.803 prefs: qt paused
+16:28:12.804 prefs: deferred build scheduled
+16:28:12.897 prefs: building dlg
+16:28:12.897 prefs: toplevel created
+16:28:12.898 prefs: building controls
+16:28:13.119 qt pump resumed
+16:28:14.414 qt pump paused
+16:28:14.458 qt pump resumed
+16:28:19.165 qt3d host created
+16:33:49.432 qt3d host created
+16:34:22.951 faulthandler enabled
+16:34:26.047 qt3d host created
+16:34:26.048 app started
+16:37:37.793 qt3d host created
+16:38:55.312 qt3d host created
+16:40:00.415 qt3d host created
+16:44:58.537 qt3d host created
+16:59:14.940 qt3d host created
+17:00:37.233 qt3d host created
+17:00:47.389 qt3d host created
+17:00:53.554 qt3d host created
+17:01:03.066 qt3d host created
+17:01:08.568 qt3d host created
+17:01:14.593 qt3d host created
+17:01:14.875 prefs: clicked
+17:01:14.875 qt pump paused
+17:01:14.875 prefs: qt paused
+17:01:14.875 prefs: deferred build scheduled
+17:01:14.918 prefs: building dlg
+17:01:14.918 prefs: toplevel created
+17:01:14.919 prefs: building controls
+17:01:14.981 qt pump resumed
+17:01:15.021 prefs: clicked
+17:01:15.022 qt pump paused
+17:01:15.022 prefs: qt paused
+17:01:15.022 prefs: deferred build scheduled
+17:01:15.054 prefs: building dlg
+17:01:15.055 prefs: toplevel created
+17:01:15.055 prefs: building controls
+17:01:15.140 qt pump resumed
+17:01:20.178 qt3d host created
+17:01:25.893 qt3d host created
+17:01:32.895 qt3d host created
+17:01:40.724 qt3d host created
+17:01:45.051 qt3d host created
+17:01:48.445 qt3d host created
+17:01:59.480 qt3d host created
+17:02:05.534 qt3d host created
+17:02:11.657 qt3d host created
+17:02:12.177 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmpklhj3bio\ux_test.autosave.scs
+17:02:12.180 prefs: clicked
+17:02:12.181 qt pump paused
+17:02:12.181 prefs: qt paused
+17:02:12.181 prefs: deferred build scheduled
+17:02:12.320 prefs: building dlg
+17:02:12.321 prefs: toplevel created
+17:02:12.321 prefs: building controls
+17:02:12.516 qt pump resumed
+17:02:13.684 qt pump paused
+17:02:14.087 qt pump resumed
+17:02:17.633 qt3d host created
+17:03:43.206 qt3d host created
+17:04:18.547 qt3d host created
+17:04:41.558 faulthandler enabled
+17:04:44.355 qt3d host created
+17:04:44.356 app started
+17:12:06.297 qt3d host created
+17:12:15.181 qt3d host created
+17:12:24.520 qt3d host created
+17:12:31.214 qt3d host created
+17:12:35.196 qt3d host created
+17:12:36.361 prefs: clicked
+17:12:36.362 qt pump paused
+17:12:36.362 prefs: qt paused
+17:12:36.362 prefs: deferred build scheduled
+17:12:36.409 prefs: building dlg
+17:12:36.410 prefs: toplevel created
+17:12:36.410 prefs: building controls
+17:12:36.492 qt pump resumed
+17:12:36.559 prefs: clicked
+17:12:36.560 qt pump paused
+17:12:36.560 prefs: qt paused
+17:12:36.560 prefs: deferred build scheduled
+17:12:36.591 prefs: building dlg
+17:12:36.591 prefs: toplevel created
+17:12:36.591 prefs: building controls
+17:12:36.656 qt pump resumed
+17:12:43.119 qt3d host created
+17:12:49.439 qt3d host created
+17:12:57.949 qt3d host created
+17:13:05.905 qt3d host created
+17:13:10.509 qt3d host created
+17:13:14.314 qt3d host created
+17:13:25.695 qt3d host created
+17:13:32.845 qt3d host created
+17:13:40.603 qt3d host created
+17:13:41.503 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmp1anh7jla\ux_test.autosave.scs
+17:13:41.507 prefs: clicked
+17:13:41.508 qt pump paused
+17:13:41.508 prefs: qt paused
+17:13:41.509 prefs: deferred build scheduled
+17:13:41.583 prefs: building dlg
+17:13:41.583 prefs: toplevel created
+17:13:41.583 prefs: building controls
+17:13:41.775 qt pump resumed
+17:13:43.139 qt pump paused
+17:13:43.177 qt pump resumed
+17:13:47.843 qt3d host created
+17:14:21.499 qt3d host created
+17:15:00.895 qt3d host created
+17:15:07.315 qt3d host created
+17:15:14.255 qt3d host created
+17:15:20.238 qt3d host created
+17:15:25.023 qt3d host created
+17:15:25.518 prefs: clicked
+17:15:25.519 qt pump paused
+17:15:25.519 prefs: qt paused
+17:15:25.519 prefs: deferred build scheduled
+17:15:25.565 prefs: building dlg
+17:15:25.566 prefs: toplevel created
+17:15:25.566 prefs: building controls
+17:15:25.798 qt pump resumed
+17:15:25.906 prefs: clicked
+17:15:25.907 qt pump paused
+17:15:25.907 prefs: qt paused
+17:15:25.908 prefs: deferred build scheduled
+17:15:25.939 prefs: building dlg
+17:15:25.939 prefs: toplevel created
+17:15:25.940 prefs: building controls
+17:15:26.026 qt pump resumed
+17:15:31.729 qt3d host created
+17:15:37.932 qt3d host created
+17:15:46.031 qt3d host created
+17:15:53.088 qt3d host created
+17:15:58.947 qt3d host created
+17:16:03.391 qt3d host created
+17:16:14.513 qt3d host created
+17:16:20.353 qt3d host created
+17:16:26.736 qt3d host created
+17:16:27.381 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmpajano87b\ux_test.autosave.scs
+17:16:27.385 prefs: clicked
+17:16:27.386 qt pump paused
+17:16:27.386 prefs: qt paused
+17:16:27.386 prefs: deferred build scheduled
+17:16:27.534 prefs: building dlg
+17:16:27.535 prefs: toplevel created
+17:16:27.535 prefs: building controls
+17:16:27.711 qt pump resumed
+17:16:28.993 qt pump paused
+17:16:29.036 qt pump resumed
+17:16:33.336 qt3d host created
+17:16:53.815 qt3d host created
+17:17:17.628 qt3d host created
+17:21:07.704 qt3d host created
+17:21:13.913 qt3d host created
+17:21:20.164 qt3d host created
+17:21:27.318 qt3d host created
+17:21:32.637 qt3d host created
+17:21:33.035 prefs: clicked
+17:21:33.035 qt pump paused
+17:21:33.035 prefs: qt paused
+17:21:33.036 prefs: deferred build scheduled
+17:21:33.077 prefs: building dlg
+17:21:33.077 prefs: toplevel created
+17:21:33.077 prefs: building controls
+17:21:33.145 qt pump resumed
+17:21:33.321 prefs: clicked
+17:21:33.322 qt pump paused
+17:21:33.322 prefs: qt paused
+17:21:33.322 prefs: deferred build scheduled
+17:21:33.353 prefs: building dlg
+17:21:33.353 prefs: toplevel created
+17:21:33.354 prefs: building controls
+17:21:33.478 qt pump resumed
+17:21:38.846 qt3d host created
+17:21:44.118 qt3d host created
+17:21:52.230 qt3d host created
+17:21:59.169 qt3d host created
+17:22:04.281 qt3d host created
+17:22:07.895 qt3d host created
+17:22:18.875 qt3d host created
+17:22:25.991 qt3d host created
+17:22:32.478 qt3d host created
+17:22:34.436 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmpdy759uhm\ux_test.autosave.scs
+17:22:34.438 prefs: clicked
+17:22:34.439 qt pump paused
+17:22:34.439 prefs: qt paused
+17:22:34.439 prefs: deferred build scheduled
+17:22:34.490 prefs: building dlg
+17:22:34.491 prefs: toplevel created
+17:22:34.491 prefs: building controls
+17:22:34.607 qt pump resumed
+17:22:35.792 qt pump paused
+17:22:35.835 qt pump resumed
+17:22:40.380 qt3d host created
+17:23:35.765 faulthandler enabled
+17:23:38.171 qt3d host created
+17:23:38.172 app started
+17:24:30.040 prefs: clicked
+17:24:30.040 qt pump paused
+17:24:30.041 prefs: qt paused
+17:24:30.041 prefs: deferred build scheduled
+17:24:30.072 prefs: building dlg
+17:24:30.073 prefs: toplevel created
+17:24:30.073 prefs: building controls
+17:24:34.665 qt pump resumed
+17:31:34.611 qt3d host created
+17:31:41.135 qt3d host created
+17:31:48.395 qt3d host created
+17:31:55.776 qt3d host created
+17:32:00.587 qt3d host created
+17:32:00.951 prefs: clicked
+17:32:00.951 qt pump paused
+17:32:00.952 prefs: qt paused
+17:32:00.952 prefs: deferred build scheduled
+17:32:00.996 prefs: building dlg
+17:32:00.996 prefs: toplevel created
+17:32:00.997 prefs: building controls
+17:32:01.067 qt pump resumed
+17:32:01.189 prefs: clicked
+17:32:01.189 qt pump paused
+17:32:01.190 prefs: qt paused
+17:32:01.190 prefs: deferred build scheduled
+17:32:01.222 prefs: building dlg
+17:32:01.223 prefs: toplevel created
+17:32:01.223 prefs: building controls
+17:32:01.319 qt pump resumed
+17:32:06.759 qt3d host created
+17:32:13.523 qt3d host created
+17:32:23.090 qt3d host created
+17:32:30.669 qt3d host created
+17:32:36.334 qt3d host created
+17:32:40.058 qt3d host created
+17:32:52.128 qt3d host created
+17:33:00.048 qt3d host created
+17:33:06.690 qt3d host created
+17:33:07.670 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmppe6crbjk\ux_test.autosave.scs
+17:33:07.674 prefs: clicked
+17:33:07.675 qt pump paused
+17:33:07.675 prefs: qt paused
+17:33:07.676 prefs: deferred build scheduled
+17:33:07.808 prefs: building dlg
+17:33:07.809 prefs: toplevel created
+17:33:07.809 prefs: building controls
+17:33:08.030 qt pump resumed
+17:33:09.452 qt pump paused
+17:33:09.598 qt pump resumed
+17:33:15.520 qt3d host created
+17:33:49.125 qt3d host created
+17:49:41.302 faulthandler enabled
+17:49:43.489 qt3d host created
+17:49:43.490 app started
+17:51:29.441 prefs: clicked
+17:51:29.441 qt pump paused
+17:51:29.441 prefs: qt paused
+17:51:29.442 prefs: deferred build scheduled
+17:51:29.472 prefs: building dlg
+17:51:29.473 prefs: toplevel created
+17:51:29.473 prefs: building controls
+17:51:37.611 qt pump resumed
+17:52:18.884 prefs: clicked
+17:52:18.884 qt pump paused
+17:52:18.885 prefs: qt paused
+17:52:18.885 prefs: deferred build scheduled
+17:52:18.916 prefs: building dlg
+17:52:18.917 prefs: toplevel created
+17:52:18.917 prefs: building controls
+17:52:21.456 qt pump resumed
+17:56:50.951 qt3d host created
+17:59:40.244 qt3d host created
+18:00:09.410 qt3d host created
+18:00:17.138 qt3d host created
+18:00:24.939 qt3d host created
+18:00:32.169 qt3d host created
+18:00:37.570 qt3d host created
+18:00:37.907 prefs: clicked
+18:00:38.134 qt pump paused
+18:00:38.135 prefs: qt paused
+18:00:38.136 prefs: deferred build scheduled
+18:00:38.197 prefs: building dlg
+18:00:38.198 prefs: toplevel created
+18:00:38.198 prefs: building controls
+18:00:38.285 qt pump resumed
+18:00:38.411 prefs: clicked
+18:00:38.412 qt pump paused
+18:00:38.412 prefs: qt paused
+18:00:38.413 prefs: deferred build scheduled
+18:00:38.444 prefs: building dlg
+18:00:38.444 prefs: toplevel created
+18:00:38.445 prefs: building controls
+18:00:38.570 qt pump resumed
+18:00:44.338 qt3d host created
+18:00:50.147 qt3d host created
+18:01:00.495 qt3d host created
+18:01:09.283 qt3d host created
+18:01:16.053 qt3d host created
+18:01:19.781 qt3d host created
+18:01:33.224 qt3d host created
+18:01:40.745 qt3d host created
+18:01:47.593 qt3d host created
+18:01:48.304 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmpt3gq__wj\ux_test.autosave.scs
+18:01:48.306 prefs: clicked
+18:01:48.307 qt pump paused
+18:01:48.307 prefs: qt paused
+18:01:48.307 prefs: deferred build scheduled
+18:01:48.472 prefs: building dlg
+18:01:48.473 prefs: toplevel created
+18:01:48.474 prefs: building controls
+18:01:48.797 qt pump resumed
+18:01:50.152 qt pump paused
+18:01:50.500 qt pump resumed
+18:01:55.022 qt3d host created
+18:15:34.289 faulthandler enabled
+18:15:42.539 qt3d host created
+18:15:42.541 app started
+18:19:14.575 qt3d host created
+18:19:33.660 qt3d host created
+18:29:34.362 qt3d host created
+18:29:47.549 qt3d host created
+18:30:01.784 qt3d host created
+18:30:07.468 qt3d host created
+18:30:12.265 qt3d host created
+18:30:13.453 prefs: clicked
+18:30:13.454 qt pump paused
+18:30:13.454 prefs: qt paused
+18:30:13.455 prefs: deferred build scheduled
+18:30:13.502 prefs: building dlg
+18:30:13.503 prefs: toplevel created
+18:30:13.503 prefs: building controls
+18:30:13.648 qt pump resumed
+18:30:13.712 prefs: clicked
+18:30:13.712 qt pump paused
+18:30:13.713 prefs: qt paused
+18:30:13.713 prefs: deferred build scheduled
+18:30:13.745 prefs: building dlg
+18:30:13.746 prefs: toplevel created
+18:30:13.746 prefs: building controls
+18:30:13.823 qt pump resumed
+18:30:19.316 qt3d host created
+18:30:25.246 qt3d host created
+18:30:33.250 qt3d host created
+18:30:41.064 qt3d host created
+18:30:45.676 qt3d host created
+18:30:49.611 qt3d host created
+18:31:03.773 qt3d host created
+18:31:13.392 qt3d host created
+18:31:20.011 qt3d host created
+18:31:20.745 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmpd0w0o0ct\ux_test.autosave.scs
+18:31:20.748 prefs: clicked
+18:31:20.748 qt pump paused
+18:31:20.749 prefs: qt paused
+18:31:20.750 prefs: deferred build scheduled
+18:31:20.846 prefs: building dlg
+18:31:20.847 prefs: toplevel created
+18:31:20.847 prefs: building controls
+18:31:21.027 qt pump resumed
+18:31:22.267 qt pump paused
+18:31:22.629 qt pump resumed
+18:31:26.580 qt3d host created
+18:31:43.315 faulthandler enabled
+18:31:47.028 qt3d host created
+18:31:47.029 app started
+18:51:54.837 faulthandler enabled
+18:51:58.730 qt3d host created
+18:51:58.731 app started
+19:02:28.170 qt3d host created
+19:06:13.822 qt3d host created
+19:07:12.114 qt3d host created
+19:17:37.907 qt3d host created
+19:17:55.822 qt3d host created
+19:18:11.020 qt3d host created
+19:18:19.317 qt3d host created
+19:18:26.823 qt3d host created
+19:18:27.322 prefs: clicked
+19:18:27.323 qt pump paused
+19:18:27.323 prefs: qt paused
+19:18:27.324 prefs: deferred build scheduled
+19:18:27.380 prefs: building dlg
+19:18:27.381 prefs: toplevel created
+19:18:27.382 prefs: building controls
+19:18:27.722 qt pump resumed
+19:18:27.848 prefs: clicked
+19:18:27.850 qt pump paused
+19:18:27.851 prefs: qt paused
+19:18:27.852 prefs: deferred build scheduled
+19:18:27.883 prefs: building dlg
+19:18:27.885 prefs: toplevel created
+19:18:27.885 prefs: building controls
+19:18:28.038 qt pump resumed
+19:18:35.060 qt3d host created
+19:18:43.098 qt3d host created
+19:18:54.776 qt3d host created
+19:19:05.212 qt3d host created
+19:19:13.032 qt3d host created
+19:19:19.564 qt3d host created
+19:19:35.554 qt3d host created
+19:19:45.368 qt3d host created
+19:19:54.002 qt3d host created
+19:19:54.874 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmpiomyx017\ux_test.autosave.scs
+19:19:54.879 prefs: clicked
+19:19:54.879 qt pump paused
+19:19:54.880 prefs: qt paused
+19:19:54.883 prefs: deferred build scheduled
+19:19:55.060 prefs: building dlg
+19:19:55.061 prefs: toplevel created
+19:19:55.062 prefs: building controls
+19:19:55.422 qt pump resumed
+19:19:58.878 qt pump paused
+19:19:59.421 qt pump resumed
+19:20:07.165 qt3d host created
+19:21:35.533 faulthandler enabled
+19:21:38.689 qt3d host created
+19:21:38.691 app started
+19:30:05.189 prefs: clicked
+19:30:05.190 qt pump paused
+19:30:05.190 prefs: qt paused
+19:30:05.191 prefs: deferred build scheduled
+19:30:05.221 prefs: building dlg
+19:30:05.222 prefs: toplevel created
+19:30:05.223 prefs: building controls
+19:30:10.237 qt pump resumed
+19:49:25.144 faulthandler enabled
+19:49:35.861 qt3d host created
+19:49:35.863 app started
+19:49:44.832 qt pump paused
+19:50:02.356 qt pump resumed
+19:57:35.041 qt3d host created
+20:00:09.693 qt3d host created
+20:00:45.996 qt3d host created
+20:00:53.125 qt3d host created
+20:01:04.750 qt3d host created
+20:01:12.408 qt3d host created
+20:01:17.956 qt3d host created
+20:01:18.219 prefs: clicked
+20:01:18.220 qt pump paused
+20:01:18.221 prefs: qt paused
+20:01:18.221 prefs: deferred build scheduled
+20:01:18.270 prefs: building dlg
+20:01:18.271 prefs: toplevel created
+20:01:18.272 prefs: building controls
+20:01:18.398 qt pump resumed
+20:01:18.480 prefs: clicked
+20:01:18.481 qt pump paused
+20:01:18.482 prefs: qt paused
+20:01:18.483 prefs: deferred build scheduled
+20:01:18.523 prefs: building dlg
+20:01:18.524 prefs: toplevel created
+20:01:18.526 prefs: building controls
+20:01:18.734 qt pump resumed
+20:01:25.205 qt3d host created
+20:01:32.470 qt3d host created
+20:01:45.419 qt3d host created
+20:01:57.283 qt3d host created
+20:02:04.191 qt3d host created
+20:02:09.778 qt3d host created
+20:02:28.089 qt3d host created
+20:02:37.080 qt3d host created
+20:02:48.293 qt3d host created
+20:02:49.200 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmp_a5ovoz8\ux_test.autosave.scs
+20:02:49.207 prefs: clicked
+20:02:49.208 qt pump paused
+20:02:49.209 prefs: qt paused
+20:02:49.211 prefs: deferred build scheduled
+20:02:49.342 prefs: building dlg
+20:02:49.344 prefs: toplevel created
+20:02:49.344 prefs: building controls
+20:02:49.746 qt pump resumed
+20:02:52.839 qt pump paused
+20:02:53.212 qt pump resumed
+20:02:58.398 qt3d host created
+20:25:35.999 qt3d host created
+20:25:54.780 qt3d host created
+20:28:57.043 qt3d host created
+20:29:13.222 qt3d host created
+20:29:38.368 qt3d host created
+20:30:43.132 qt3d host created
+20:31:41.928 qt3d host created
+20:31:54.117 qt3d host created
+20:41:08.685 qt3d host created
+20:41:16.280 qt3d host created
+20:41:27.424 qt3d host created
+20:41:34.213 qt3d host created
+20:41:39.386 qt3d host created
+20:41:39.738 prefs: clicked
+20:41:39.739 qt pump paused
+20:41:39.740 prefs: qt paused
+20:41:39.741 prefs: deferred build scheduled
+20:41:39.791 prefs: building dlg
+20:41:39.792 prefs: toplevel created
+20:41:39.793 prefs: building controls
+20:41:40.025 qt pump resumed
+20:41:40.418 prefs: clicked
+20:41:40.419 qt pump paused
+20:41:40.420 prefs: qt paused
+20:41:40.421 prefs: deferred build scheduled
+20:41:40.454 prefs: building dlg
+20:41:40.456 prefs: toplevel created
+20:41:40.457 prefs: building controls
+20:41:40.818 qt pump resumed
+20:41:48.473 qt3d host created
+20:41:55.468 qt3d host created
+20:42:04.081 qt3d host created
+20:42:12.953 qt3d host created
+20:42:19.408 qt3d host created
+20:42:23.504 qt3d host created
+20:42:37.631 qt3d host created
+20:42:45.976 qt3d host created
+20:42:54.137 qt3d host created
+20:43:02.339 qt3d host created
+20:43:02.818 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmpzlrkvvvw\ux_test.autosave.scs
+20:43:02.821 prefs: clicked
+20:43:02.821 qt pump paused
+20:43:02.822 prefs: qt paused
+20:43:02.823 prefs: deferred build scheduled
+20:43:03.159 prefs: building dlg
+20:43:03.160 prefs: toplevel created
+20:43:03.161 prefs: building controls
+20:43:03.486 qt pump resumed
+20:43:05.358 qt pump paused
+20:43:05.557 qt pump resumed
+20:43:09.891 qt3d host created
+20:43:34.764 qt3d host created
+20:43:55.106 qt3d host created
+20:44:03.047 qt3d host created
+20:44:11.672 qt3d host created
+20:44:18.796 qt3d host created
+20:44:23.367 qt3d host created
+20:44:23.612 prefs: clicked
+20:44:23.613 qt pump paused
+20:44:23.613 prefs: qt paused
+20:44:23.614 prefs: deferred build scheduled
+20:44:23.658 prefs: building dlg
+20:44:23.659 prefs: toplevel created
+20:44:23.659 prefs: building controls
+20:44:23.716 qt pump resumed
+20:44:23.764 prefs: clicked
+20:44:23.765 qt pump paused
+20:44:23.765 prefs: qt paused
+20:44:23.766 prefs: deferred build scheduled
+20:44:23.796 prefs: building dlg
+20:44:23.797 prefs: toplevel created
+20:44:23.797 prefs: building controls
+20:44:23.850 qt pump resumed
+20:44:30.127 qt3d host created
+20:44:35.679 qt3d host created
+20:44:45.765 qt3d host created
+20:44:54.315 qt3d host created
+20:45:00.747 qt3d host created
+20:45:04.869 qt3d host created
+20:45:34.146 qt3d host created
+20:45:42.156 qt3d host created
+20:45:50.895 qt3d host created
+20:45:57.237 qt3d host created
+20:45:57.758 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmpazgn58bw\ux_test.autosave.scs
+20:45:57.763 prefs: clicked
+20:45:57.763 qt pump paused
+20:45:57.764 prefs: qt paused
+20:45:57.765 prefs: deferred build scheduled
+20:45:58.069 prefs: building dlg
+20:45:58.089 prefs: toplevel created
+20:45:58.090 prefs: building controls
+20:45:58.404 qt pump resumed
+20:46:00.147 qt pump paused
+20:46:00.203 qt pump resumed
+20:46:04.541 qt3d host created
+20:46:19.553 qt3d host created
+20:46:25.615 qt3d host created
+20:46:34.625 qt3d host created
+20:46:48.382 qt3d host created
+20:46:54.304 qt3d host created
+20:47:03.402 qt3d host created
+21:11:01.613 faulthandler enabled
+21:11:04.585 qt3d host created
+21:11:04.586 app started
+21:12:17.129 prefs: clicked
+21:12:17.129 qt pump paused
+21:12:17.130 prefs: qt paused
+21:12:17.130 prefs: deferred build scheduled
+21:12:17.169 prefs: building dlg
+21:12:17.170 prefs: toplevel created
+21:12:17.170 prefs: building controls
+21:12:22.354 qt pump resumed
+21:13:53.128 prefs: clicked
+21:13:53.129 qt pump paused
+21:13:53.129 prefs: qt paused
+21:13:53.130 prefs: deferred build scheduled
+21:13:53.162 prefs: building dlg
+21:13:53.163 prefs: toplevel created
+21:13:53.163 prefs: building controls
+21:13:55.860 qt pump resumed
+21:18:44.616 faulthandler enabled
+21:18:48.241 qt3d host created
+21:18:48.243 app started
+21:35:29.674 qt3d host created
+21:35:57.075 qt3d host created
+21:44:03.221 faulthandler enabled
+21:44:05.869 qt3d host created
+21:44:05.871 app started
+21:44:47.991 prefs: clicked
+21:44:47.992 qt pump paused
+21:44:47.992 prefs: qt paused
+21:44:47.993 prefs: deferred build scheduled
+21:44:48.033 prefs: building dlg
+21:44:48.034 prefs: toplevel created
+21:44:48.034 prefs: building controls
+21:44:53.728 qt pump resumed
+21:45:03.775 prefs: clicked
+21:45:03.775 qt pump paused
+21:45:03.776 prefs: qt paused
+21:45:03.776 prefs: deferred build scheduled
+21:45:03.808 prefs: building dlg
+21:45:03.809 prefs: toplevel created
+21:45:03.810 prefs: building controls
+21:45:05.492 qt pump resumed
+21:46:25.521 qt3d host created
+22:29:38.240 qt3d host created
+22:29:49.966 qt3d host created
+22:30:00.237 qt3d host created
+22:30:11.899 qt3d host created
+22:30:23.546 qt3d host created
+22:30:23.919 prefs: clicked
+22:30:23.920 qt pump paused
+22:30:23.920 prefs: qt paused
+22:30:23.920 prefs: deferred build scheduled
+22:30:23.965 prefs: building dlg
+22:30:23.966 prefs: toplevel created
+22:30:23.966 prefs: building controls
+22:30:24.155 qt pump resumed
+22:30:24.357 prefs: clicked
+22:30:24.358 qt pump paused
+22:30:24.359 prefs: qt paused
+22:30:24.359 prefs: deferred build scheduled
+22:30:24.390 prefs: building dlg
+22:30:24.391 prefs: toplevel created
+22:30:24.392 prefs: building controls
+22:30:24.544 qt pump resumed
+22:30:29.704 qt3d host created
+22:30:30.231 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmpwtg6zwya\ux_test.autosave.scs
+22:30:30.235 prefs: clicked
+22:30:30.236 qt pump paused
+22:30:30.237 prefs: qt paused
+22:30:30.237 prefs: deferred build scheduled
+22:30:30.453 prefs: building dlg
+22:30:30.454 prefs: toplevel created
+22:30:30.455 prefs: building controls
+22:30:30.729 qt pump resumed
+22:30:32.238 qt pump paused
+22:30:32.455 qt pump resumed
+22:31:02.450 qt3d host created
+22:31:08.253 qt3d host created
+22:31:21.287 qt3d host created
+22:32:17.877 qt3d host created
+22:33:18.895 qt3d host created
+23:00:21.578 qt3d host created
+23:00:48.301 qt3d host created
+23:00:49.161 prefs: clicked
+23:00:49.161 qt pump paused
+23:00:49.162 prefs: qt paused
+23:00:49.162 prefs: deferred build scheduled
+23:00:49.212 prefs: building dlg
+23:00:49.213 prefs: toplevel created
+23:00:49.213 prefs: building controls
+23:00:49.380 qt pump resumed
+23:00:49.488 prefs: clicked
+23:00:49.489 qt pump paused
+23:00:49.489 prefs: qt paused
+23:00:49.490 prefs: deferred build scheduled
+23:00:49.521 prefs: building dlg
+23:00:49.522 prefs: toplevel created
+23:00:49.523 prefs: building controls
+23:00:49.605 qt pump resumed
+23:01:12.048 qt3d host created
+23:01:18.411 qt3d host created
+23:01:23.441 qt3d host created
+23:01:39.034 qt3d host created
+23:01:45.074 qt3d host created
+23:16:02.250 faulthandler enabled
+23:16:11.422 qt3d host created
+23:16:11.424 app started
+23:18:40.020 prefs: clicked
+23:18:40.330 qt pump paused
+23:18:40.330 prefs: qt paused
+23:18:40.331 prefs: deferred build scheduled
+23:18:40.361 prefs: building dlg
+23:18:40.362 prefs: toplevel created
+23:18:40.362 prefs: building controls
+23:18:46.719 qt pump resumed
+23:28:14.955 qt3d host created
+23:28:19.385 qt3d host created
+23:28:19.860 prefs: clicked
+23:28:19.861 qt pump paused
+23:28:19.861 prefs: qt paused
+23:28:19.861 prefs: deferred build scheduled
+23:28:19.909 prefs: building dlg
+23:28:19.913 prefs: toplevel created
+23:28:19.914 prefs: building controls
+23:28:20.086 qt pump resumed
+23:28:20.154 prefs: clicked
+23:28:20.155 qt pump paused
+23:28:20.155 prefs: qt paused
+23:28:20.156 prefs: deferred build scheduled
+23:28:20.187 prefs: building dlg
+23:28:20.188 prefs: toplevel created
+23:28:20.189 prefs: building controls
+23:28:20.334 qt pump resumed
+23:28:39.898 qt3d host created
+23:28:47.844 qt3d host created
+23:28:55.394 qt3d host created
+23:28:55.835 autosave -> C:\Users\Sippy\AppData\Local\Temp\tmp3q989e_s\ux_test.autosave.scs
+23:28:55.837 prefs: clicked
+23:28:55.838 qt pump paused
+23:28:55.838 prefs: qt paused
+23:28:55.839 prefs: deferred build scheduled
+23:28:55.902 prefs: building dlg
+23:28:55.902 prefs: toplevel created
+23:28:55.903 prefs: building controls
+23:28:56.251 qt pump resumed
+23:28:57.958 qt pump paused
+23:28:58.098 qt pump resumed
+23:29:14.949 qt3d host created
+23:29:22.243 qt3d host created
+23:29:28.319 qt3d host created
+23:31:20.509 qt3d host created
+23:31:32.682 faulthandler enabled
+23:31:35.788 qt3d host created
+23:31:35.790 app started

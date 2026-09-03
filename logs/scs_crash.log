@@ -1,0 +1,87 @@
+Windows fatal exception: code 0x8001010d
+
+Current thread 0x00003a8c (most recent call first):
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1485 in mainloop
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 50 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 54 in <module>
+Windows fatal exception: code 0x8001010d
+
+Current thread 0x00005c60 (most recent call first):
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\commondialog.py", line 45 in show
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\filedialog.py", line 384 in askopenfilename
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\ship_app_actions.py", line 2255 in menu_import_project
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948 in __call__
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1485 in mainloop
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 50 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 54 in <module>
+Windows fatal exception: code 0x8001010d
+
+Current thread 0x00004e88 (most recent call first):
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1485 in mainloop
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 50 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 54 in <module>
+Windows fatal exception: code 0x8001010d
+
+Current thread 0x00005b48 (most recent call first):
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1485 in mainloop
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 50 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 54 in <module>
+Windows fatal exception: code 0x8001010d
+
+Current thread 0x00000f44 (most recent call first):
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1485 in mainloop
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\src\app\main.py", line 50 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 23 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 27 in <module>
+Windows fatal exception: code 0x8001010d
+
+Current thread 0x00003838 (most recent call first):
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1485 in mainloop
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\src\app\main.py", line 50 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 23 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 27 in <module>
+Windows fatal exception: code 0x8001010d
+
+Current thread 0x00005cc0 (most recent call first):
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\commondialog.py", line 45 in show
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\filedialog.py", line 384 in askopenfilename
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\src\core\ship_app_actions.py", line 357 in add_ml_model_clicked
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948 in __call__
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1485 in mainloop
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\src\app\main.py", line 57 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 23 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 27 in <module>
+Windows fatal exception: code 0x8001010d
+
+Current thread 0x000044b8 (most recent call first):
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1485 in mainloop
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\src\app\main.py", line 57 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 23 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 27 in <module>
+Windows fatal exception: code 0x8001010d
+
+Current thread 0x000062d8 (most recent call first):
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1485 in mainloop
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\src\app\main.py", line 57 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 23 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 27 in <module>
+Windows fatal exception: code 0x8001010d
+
+Current thread 0x00002484 (most recent call first):
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1485 in mainloop
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\src\app\main.py", line 57 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 23 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 27 in <module>
+Windows fatal exception: code 0x8001010d
+
+Current thread 0x00005380 (most recent call first):
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\commondialog.py", line 45 in show
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\messagebox.py", line 76 in _show
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\messagebox.py", line 88 in showinfo
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\src\core\ship_app_calc.py", line 1407 in gen_hull_clicked
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\src\core\ship_app_calc.py", line 24 in wrapper
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1948 in __call__
+  File "C:\Users\Sippy\AppData\Local\Programs\Python\Python311\Lib\tkinter\__init__.py", line 1485 in mainloop
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\src\app\main.py", line 57 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 23 in main
+  File "D:\360MoveData\Users\Sippy\Desktop\matlab\APP\Ship_static_calculate\Pyship\main.py", line 27 in <module>
